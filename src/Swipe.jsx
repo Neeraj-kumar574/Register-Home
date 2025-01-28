@@ -3,7 +3,7 @@ import OwlCarousel from 'react-owl-carousel';
 import 'owl.carousel/dist/assets/owl.carousel.css';
 import 'owl.carousel/dist/assets/owl.theme.default.css';
 import Image from '../src/assets/comma.png'
-import Image1 from './assets/star.png'
+import Image1 from './assets/Star.png'
 import Image3 from './assets/row.png'
 
 
